@@ -2,4 +2,4 @@ pandas
 plotly
 requests
 lxml
-FinanceDataReader
+finance-datareader
